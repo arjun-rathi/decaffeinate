@@ -23,6 +23,7 @@ input.coffee → input.js
 subfolder/input.coffee → subfolder/input.js
 ```
 
+
 Alternatively, paste code into the online [repl] to immediately see the output.
 
 For real-world use cases, you'll likely want to spend some time understanding
