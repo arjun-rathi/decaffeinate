@@ -1,6 +1,6 @@
 import { checkCS2 } from './support/check';
 
-// These tests are taken from csx.coffee in the CoffeeScript test suite.
+// These tests are taken from csx.coffee in the CoffeeScript.
 describe('csx', () => {
   it('self closing', () => {
     checkCS2(
