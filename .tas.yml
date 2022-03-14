@@ -3,6 +3,7 @@ framework: jest
 preRun:
      command:
         - yarn install
+        - yarn build
 preMerge:
   pattern:
     - "./test/**/*_test.ts"
